@@ -1,0 +1,22 @@
+ng new angular6-firebase-crud
+cd angular6-firebase-crud
+ng update
+ng update @angular/cli --migrate-only --from=1.7.4
+npm i --save firebase angularfire2
+
+*Compile Angular
+	antes de pasar a producción es necesario modificar el archivo src/index.html
+	<base href="/">
+	por
+	<base href="./">
+
+	ng build --prod
+
+*Install Firebase package
+	npm install -g firebase-tools
+	firebase login
+	(ahora desde dentro del proyecto que se quiere subir, no olvidar NO SOBRESCRIBIR EL INDEX)
+	firebase init
+		(select "Hosting")
+		(select init folder)
+	firebase deploy
