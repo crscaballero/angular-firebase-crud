@@ -1,5 +1,15 @@
-# Angular6FirebaseCrud
+Angular6FirebaseCrud
+===================
 
+Angular 6 + Firebase CRUD course by [Domini Code](https://www.youtube.com/channel/UC3QuZuJr2_EOUak8bWUd74A)
+---------------------------------------------
+
+This a simple project, just following the instruction of the course for learn.<br />
+Source [Angular 6 español - Crud Angular & Firebase firestore](https://www.youtube.com/watch?v=i3yMb8sUKeE&list=PL_9MDdjVuFjHxi_fNW5FTFM4_tZ97mrNj).<br />
+
+![GIF](https://lh5.googleusercontent.com/HmyctBV8uRztUefgjWkU353q6pU6ae1c6OZZuuKKUHlR11BioqRQO6N1CZfnLtsTTwBNdLDzYJ1DEXZB_Spc=w1920-h937-rw)
+
+## Development Info
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
 
 ## Development server

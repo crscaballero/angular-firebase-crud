@@ -1,5 +1,7 @@
 import { Component, OnInit } from '@angular/core';
+
 import { CursoInterface } from '../../models/cursoInterface';
+
 import { CursoService } from '../../services/curso.service';
 
 @Component({
