@@ -11,8 +11,32 @@ Source [Angular - Crud Angular & Firebase firestore](https://www.youtube.com/wat
 
 ### Rquirements
 1. [NPM](https://www.npmjs.com/get-npm) (by [Node.js](https://nodejs.org/))
-2. [GIT](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+2. [GIT](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) (optional, only for clone proyect)
 3. [Angular CLI](https://cli.angular.io/)
+
+### Deployment
+1. Clone project<br />
+    `git clone https://github.com/crscaballero/angular-firebase-crud.git`
+2. Go to project<br />
+    `cd angular-firebase-crud`
+3. Update/Install Packages<br />
+    `npm install`
+4. Start project<br />
+    `ng serve`
+    
+### Instructions (done to create it)
+1. Install Angular CLI<br />
+    `npm install -g @angular/cli`
+2. Create project<br />
+    `ng new angular-firebase-crud`
+3. Go to project<br />
+    `cd angular-firebase-crud`
+3. Start project<br />
+    `ng serve`
+    
+### Package Installed (from inside project as admin user)
+- [AngularFire](https://github.com/angular/angularfire2) (authentication and firestore)<br />
+    `npm install firebase @angular/fire --save`
 
 ### Angular Standard Instructions/Info
 |  | Description |
